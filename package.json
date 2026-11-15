@@ -1,0 +1,9 @@
+{
+  "name": "obsidian-work-templates",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Reusable Obsidian work and planning templates",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs"
+  }
+}
